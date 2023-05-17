@@ -1,0 +1,38 @@
+_repo: Dingaansdag_70421
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leipoldt, C. Louis (Christiaan Louis)
+    aliases:
+    - Leipoldt, C. Louis (Christiaan Louis)
+    - Leipoldt, Christiaan Louis
+    - Leipoldt, Louis
+    - Pheidippides
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '8845'
+    url: http://www.gutenberg.org/2009/agents/8845
+    wikipedia:
+    - https://en.wikipedia.org/wiki/C._Louis_Leipoldt
+    - https://af.wikipedia.org/wiki/C._Louis_Leipoldt
+description: ''
+gutenberg_issued: '2023-03-31'
+identifiers:
+  gutenberg: '70421'
+language: af
+pgterms:marc904: https://archive.org/details/clleipoldtdingaan
+pgterms:marc905: 20210830034156leipoldt
+pgterms:marc906: '1925'
+pgterms:marc907: za
+production_note: Kobus Meyer, Emmanuel Ackerman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aSouth Africa :$bJ. L. van Schaik, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Afrikaans poetry'
+- !lcc 'PT'
+- GITenberg
+title: Dingaansdag
+url: http://www.gutenberg.org/ebooks/70421
