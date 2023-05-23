@@ -1,5 +1,8 @@
 _repo: Dingaansdag_70421
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70421-h/images/cover.jpg
 creator:
   author:
     agent_name: Leipoldt, C. Louis (Christiaan Louis)
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/C._Louis_Leipoldt
     - https://af.wikipedia.org/wiki/C._Louis_Leipoldt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70421#Dingaansdag
 gutenberg_issued: '2023-03-31'
 identifiers:
   gutenberg: '70421'
